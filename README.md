@@ -1,2 +1,2 @@
 # copperboom
-Gilmore Girls Blog standing by
+Dairyman in the houseeee
