@@ -23,14 +23,14 @@ email: dairyman@gilmoregirlsblog.com
 description: >- # this means to ignore newlines until "baseurl:"
   Let's talk Gilmore Girls.  Whether you've just discovered the show or you're on 
   your hundredth re-watch, we understand.  You NEED to talk about it.  With a village 
-  who understands.  We've got you.  You've found it.  Welcome to Gilmore Girls Blog.   
+  who understands.  We've got you.  Welcome to Gilmore Girls Blog.   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: null
 plugins:
   - jekyll-feed
 
@@ -53,3 +53,22 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+defaults:
+  -
+    scope:
+      type: posts
+      path: _posts
+    values:
+      is_post: true
+      layout: post
+      permalink: /blog/:categories/:title/
+  -
+    scope:
+      type: pages
+      path: _pages
+    values:
+      is_post: false
+      layout: default
+
+include: [_pages]
