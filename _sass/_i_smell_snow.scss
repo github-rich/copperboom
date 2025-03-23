@@ -1,0 +1,41 @@
+.snow-old {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #9BC0E3;
+    font-family: 'Tangerine', cursive;
+    font-size: 2rem;
+    color: #5A7FA2;
+  }
+
+.snow-body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #9BC0E3;
+    color: #5A7FA2;
+}
+
+.snow-container {
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+
+}
+
+.snow-fit-text {
+    display: inline-block;
+    font-family: 'Tangerine', cursive;
+    white-space: nowrap; /* Prevents text from breaking to a new line */
+    width: 100%;
+    text-align: center;
+    font-size: 10vw; /* Font size relative to viewport width */
+
+}

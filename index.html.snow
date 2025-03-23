@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Blog</title>
+  <title>It's coming - Gilmore Girls Blog</title>
   <style>
     body {
       display: flex;
@@ -9,10 +9,10 @@
       align-items: center;
       height: 100vh;
       margin: 0;
-      background-color: #f0f0f0;
+      background-color: #9BC0E3;
       font-family: 'Tangerine', cursive;
       font-size: 5rem;
-      color: #333;
+      color: #5A7FA2;
     }
   </style>
   <link rel="preconnect" href="https://fonts.googleapis.com">

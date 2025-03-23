@@ -1,0 +1,45 @@
+blockquote {
+    background: #9BC0E3;
+    border-left: 10px solid #5A7FA2;
+    font-style: normal;
+    font-weight: 400;
+    margin: 1.5em 3em;
+    padding: 0.5em 10px;
+    border-radius: 3px;
+     /* The quotes property is not necessary unless you are using ::before and ::after pseudo-elements to add quotation marks */
+   quotes: "\201C""\201D""\2018""\2019";
+   text-align: center; /* Center-justify the text */
+  }
+
+blockquote p {
+  display: inline; /* This makes paragraphs inside blockquotes display as inline elements */
+  text-align: center; /* Center-align paragraphs */
+}
+
+blockquote strong {
+  display: block; /* Ensure speaker names are on their own line */
+  font-weight: bold;
+  margin-bottom: 0.2em;
+}
+
+blockquote strong.inline-strong {
+  display: inline; /* Override the block display */
+  font-weight: bold; /* Keep the bold styling */
+  margin-bottom: 0; /* Remove any bottom margin */
+}
+
+blockquote .episode-ref {
+  margin-top: 1em;
+  display: block; 
+  text-align: right;
+  font-size: 0.8em;
+  font-style: italic;
+  margin-bottom: 0.2em;
+}
+
+.episode-ref::before {
+  font-style: normal;
+  content: "📺"; /* Add a TV emoji or any other symbol */
+  font-size: 1rem; /* Match the size of the text */
+  margin-right: 0.25rem; /* Add spacing after the icon */
+}
