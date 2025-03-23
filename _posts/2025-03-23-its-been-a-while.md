@@ -2,7 +2,7 @@
 layout: post
 title:  "Oh there you are, finally."
 subtitle: "I'd been wondering what happened to you."
-originally-posted: 2025-03-22
+originally-posted: 2025-03-23
 image: /assets/images/maple_coffee.png
 image-alt-text: A mug of dark coffee ensconced by autumnal maple leaves 
 categories: fresh editorial
