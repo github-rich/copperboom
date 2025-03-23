@@ -5,7 +5,7 @@ description: >-
   Let's talk Gilmore Girls.  Whether you've just discovered the show or you're on 
   your bazillionth re-watch, we understand.  You NEED to talk about it.  With a village 
   who understands.  We've got you.  Welcome to Gilmore Girls Blog.   
-url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.gilmoregirlsblog.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: null
