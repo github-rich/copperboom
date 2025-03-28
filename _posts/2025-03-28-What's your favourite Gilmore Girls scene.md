@@ -1,35 +1,26 @@
 ---
 layout: post
 title:  "What's your favourite Gilmore Girls scene?"
-subtitle: "It's a difficult - possibly impossible - question to answer, but we like a challenge."
+subtitle: "... or how I spent the last ten minutes chuckling to myself."
 originally-posted: 2012-12-10
 image: /assets/images/s02e05 lake.png
 image-alt-text: Luke and Jess striding just before one takes a dive
 categories: archive editorial hypothetical
 ---
-To prove it can be done, here’s mine.  But first the runners-up (runner-ups?)... the close contenders: 
+My chain of thoughts was interrupted today by a colleague asking me what I was thinking about.  I’d been away with the fairies, a dappy smile on my face.  ”Favourite pizza”, I replied - my go-to - but actually I was replaying Gilmore Girls scenes in my head.
 
-> Episode One, where they both put on Macy Gray  
+__What's your favourite scene from Gilmore Girls?__  It's a difficult - possibly impossible - question to answer.  Favorite in what way?  For all the reasons you’re here reading about a show that ended five years ago.  Something sweet but honest?  Something that gave you a perspective on growing up or parenting?  Some inspired kookiness that just made you laugh when you needed it?  Perhaps all the above.  I like a challenge and I’m not scared of getting shot down.  So here are my close contenders:
 
-> “Hole. HOLE. Hole - dirt... bed, dirt? HOLE.” (I’m paraphrasing here)  
+> From the pilot, Lorelai and Rory argue, then simultaneously put on Macy Gray’s CD.  It’s amusing and clever and perfectly pitches us the overlap in their temperaments.
 
-> The town loner protesting - or maybe supporting - noodlescooze  
+> Luke’s horoscope and declaration: He’s all in / “Would you just stand still?”
 
-> Stars Hollow’s fairwell to Rory, where Melissa McCarthy is genuinely barely holding it together
+> Stars Hollow’s fairwell to Rory, where Melissa McCarthy is barely holding it together
 
-If I had to pick my absolute favourite scene, it’s Lorelai sweeping pizza crusts under the sink. So there, I’ve said it. And I totally reserve the right to change my mind 24 times in the next 5 minutes.
+> “Hole. HOLE. Hole – dirt… bed, dirt? HOLE.” I’m paraphrasing here.
 
-Oh but wait there's:
+But in this thirty second window between typing and posting, if I had to pick my absolute favourite scene, it’s Lorelai sweeping pizza crusts under the sink – and getting caught by Rory.  It’s got their role reversal, abuse of the kitchen and it’s just a damn funny thing to do.
 
-> Luke persuades Jess into an involuntary swim  
-
-> The 24-hour dance marathon  
-
-> Luke’s timing finally falls into sync as he walks in on Lorelai’s karaoke  
-
-> Cyrus moves a little to the left
-
-Anyone else wonder how bad the takeout from Al’s Pancake World really is?  I'm hankering for a chow mein sandwich right now.
-
-__Too hard? How about two from your top five?__  
+__Too hard? How about two favourite scenes from your top ten?__  
+__Anyone else wonder how bad the takeout from Al’s Pancake World really is?__  I only ask because I'm hankering for a chow mein sandwich right now.  
 __What’s your favourite pre-credits scene?__

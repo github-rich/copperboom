@@ -2,7 +2,7 @@
 layout: post
 title:  "Would Rory Gilmore have a Kindle?"
 subtitle: "My Kindle makes me feel like Rory Gilmore."
-originally-posted: 2012-12-14
+originally-posted: 2012-11-5
 image: /assets/images/gg-busbook.png
 image-alt-text: Rory loading up her school bag as Lorelai looks on concerned
 categories: archive hypothetical
@@ -24,5 +24,6 @@ Jess peers over his glasses, looking something between sceptical and worried. He
 
 I get the feeling an e-book reader wouldn’t solve her capacity problems because she’d carry it in addition to her other books, because sometimes she’d be in the mood for paper and the feel of a book, since she will always love books - but I think there’d still be a niche for an e-book due to the realisation that with all its plus points and non-book points, the best thing about a Kindle is when you have a good book on it. A good book is a good book. (Conversely, when I get a couple of bad books in a row, I tend to blame the device and go back to real books for a while).
 
+__Do you think Rory’d love her Kindle?__ It’s gotta be a lighter way to attempt [Rory Gilmore’s Book List Challenge](http://www.bookclubforum.co.uk/community/index.php?/topic/5203-rory-gilmores-book-list-challenge/).  
 __Did Gilmore Girls ever inspire you to read anything?__  
 __Team Kindle or Paperback Diehard?__
