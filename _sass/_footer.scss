@@ -1,0 +1,39 @@
+.footer {
+    background-color: #5A7FA2;
+    color: #9BC0E3;
+    text-align: center;
+    padding: 1rem 0; /* Padding to make the footer a few lines high */
+    margin-top: auto;
+  }
+  
+  .footer p {
+    margin: 0.5rem 0; /* Margin between lines of text */
+  }
+
+/* unvisited link */
+.footer .footer-links a:link {
+  color: #fff;
+  text-decoration: none;
+  font-weight: normal;
+}
+
+/* visited link */
+.footer .footer-links a:visited {
+  color: #fff;
+  text-decoration: none;
+  font-weight: normal;
+}
+
+/* mouse over link */
+.footer .footer-links a:hover {
+  color: hotpink;
+  text-decoration: none;
+  font-weight: normal;
+}
+
+/* selected link */
+.footer .footer-links a:active {
+  color: hotpink;
+  text-decoration: none;
+  font-weight: normal;
+}

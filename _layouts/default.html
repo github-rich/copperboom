@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="/assets/styles/main.css">
+</head>
+<body class="site-container {% if page.layout == 'blog_cards' %}blog-cards-page{% endif %}"> <!-- Keeps the footer down! -->
+    <header class="header">
+        <div class="header-container">
+            <div class="blog-title">
+                <a href="/index" class="site-title-link">Gilmore Girls Blog</a>
+            </div>
+            <nav class="navbar">
+                <ul class="nav-links">
+                    <li><a href="/index" {% if page.title == "Posts" or page.layout == "post" %}class="active-page"{% endif %}>Posts</a></li>
+                    <li><a href="/about" {% if page.title == "About" %}class="active-page"{% endif %}>About</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main class="site-content">
+        {{ content }}
+    </main>
+    <div class="push"></div>
+    <footer class="footer">
+        <p class="footer-links">Created and maintained by <a href=mailto:"{{site.email}}">Rich</a> aka Dairyman<br>
+            Original show content &copy; Warner Bros. Television | A Year In The Life content &copy; Netflix <br>
+            &copy; {{ site.title }} {{ "now" | date: "%Y" }}  <br></p>
+    </footer>
+</body>
+</html>

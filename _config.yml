@@ -1,0 +1,58 @@
+title: Gilmore Girls Blog
+name: Dairyman
+email: rich@gilmoregirlsblog.com
+description: >- 
+  Let's talk Gilmore Girls.  Whether you've just discovered the show or you're on 
+  your bazillionth re-watch, we understand.  You NEED to talk about it.  With a village 
+  who understands.  We've got you.  Welcome to Gilmore Girls Blog.   
+url: "https://www.gilmoregirlsblog.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+theme: null
+plugins:
+  - jekyll-feed
+
+markdown: kramdown
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+defaults:
+  -
+    scope:
+      type: posts
+      path: _posts
+    values:
+      is_post: true
+      layout: post
+      permalink: /:year/:month/:day/:title/
+  -
+    scope:
+      type: pages
+      path: _pages
+    values:
+      is_post: false
+      layout: default
+
+include: [_pages]
+
+sass:
+  sass_dir: _sass
+  style: compressed
