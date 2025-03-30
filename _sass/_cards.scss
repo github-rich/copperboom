@@ -137,8 +137,12 @@
 }
 
 .card-figure .pin-icon img {
+  max-width: none; /* Override the global max-width */
+  height: auto; /* Maintain aspect ratio */
+  border: none; /* Remove the global border */
+  border-radius: 0; /* Remove the global border-radius */
+  margin: 0; /* Remove the global margin */
   width: 100%; /* Ensure the pin icon scales properly */
-  height: auto;
 }
 
 @media (max-width: 768px) {
