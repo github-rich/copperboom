@@ -4,7 +4,7 @@ title:  "Would Rory Gilmore have a Kindle?"
 subtitle: "My Kindle makes me feel like Rory Gilmore."
 originally-posted: 2012-11-5
 image: /assets/images/gg-busbook.png
-image-alt-text: Rory loading up her school bag as Lorelai looks on concerned
+image-alt-text: "Rory loading up her school bag as Lorelai looks on concerned"
 categories: archive hypothetical
 ---
 There’s that episode where she’s berating her backpack for being too miniscule for her library of books. It’s bursting at the seams. On top of her school books, she’s packed a bus book (Milay’s biography), a lunch book (Vidal’s essays), a Faulkner novel and Eudora Welty’s short stories, for whichever mood might take her. 

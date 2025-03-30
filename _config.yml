@@ -12,6 +12,10 @@ theme: null
 plugins:
   - jekyll-feed
 
+feed:
+  path: feed.xml # The URL path for the feed (default is feed.xml)
+  limit: 10      # Limit the number of posts in the feed
+
 markdown: kramdown
 
 # Exclude from processing.

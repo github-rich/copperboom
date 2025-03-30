@@ -55,3 +55,34 @@ header {
     color: white;
     text-decoration: none;
   }
+
+  .rss-link img {
+    width: 24px;
+    height: 24px;
+    border-radius: 0; 
+    margin: -2px 1rem 0;
+  }
+
+  @media (max-width: 480px) {
+    .header-container {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    .navbar {
+      text-align: left; /* Align the navbar links to the left */
+      margin-right: 0; /* Remove the right margin */
+      margin-top: 0.5rem; /* Add some spacing above the navbar */
+      width: 100%; /* Ensure the navbar spans the full width */
+    }
+  
+    .nav-links {
+      justify-content: flex-start;
+      gap: 1rem; /* Add spacing between links */
+      padding-left: 1.2rem;
+    }
+  
+    .navbar .nav-links li {
+      margin: 0; /* Remove excessive margins */
+    }
+  }

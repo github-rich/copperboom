@@ -4,7 +4,7 @@ title:  "What's your favourite Gilmore Girls scene?"
 subtitle: "... or how I spent the last ten minutes chuckling to myself."
 originally-posted: 2012-12-10
 image: /assets/images/s02e05 lake.png
-image-alt-text: Luke and Jess striding just before one takes a dive
+image-alt-text: "Luke and Jess striding just before one takes a dive"
 categories: archive editorial hypothetical
 ---
 My chain of thoughts was interrupted today by a colleague asking me what I was thinking about.  I’d been away with the fairies, a dappy smile on my face.  ”Favourite pizza”, I replied - my go-to - but actually I was replaying Gilmore Girls scenes in my head.

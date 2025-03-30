@@ -4,7 +4,7 @@ title:  "The Great Loves of Gilmore Girls : Lorelai and... snow"
 subtitle: "Remember this?  Lorelai can’t sleep."
 originally-posted: 2012-12-18
 image: /assets/images/gg-s01e08 snow1.PNG
-image-alt-text: Lorelai smitten with snow
+image-alt-text: "Lorelai smitten with snow"
 categories: archive editorial
 ---
 She glides downstairs in a red long-sleeved tee and pulls the sash window open, hangs her head out and breathes in the chilly air. It’s a moment of care-free innocent enjoyment and Lauren, with her hair in bunches, is so cute it’s almost annoying (‘how can you be so adorably cherubic?!’ I want to shout, pinching her porcelain cheeks, tears streaming down mine). You kinda get the feeling Lauren Graham does this kind of thing for real while Peter Krause rolls his eyes; she’s effortless.
