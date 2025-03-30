@@ -1,4 +1,5 @@
 ---
+layout: default
 title: About
 permalink: /about
 ---
@@ -6,7 +7,7 @@ permalink: /about
 ## Let's talk Gilmore Girls.  
 {: style="text-align: center;"}
 
-Whether you've just discovered the show or you're on your bazillionth re-watch, we understand.  You NEED to talk about it.  With a village who understands.  We've got you.  Welcome to Gilmore Girls Blog.   
+Whether you've just discovered the show or you're on your bazillionth re-watch, we understand.  You NEED to talk about it.  With a village who understands.  We've got you.  Welcome to Gilmore Girls Blog.  
 
 > <strong class="inline-strong">We’re just here to hang out.  Without agenda, without ads. Without having to like or subscribe.  Just love what you love.</strong>
 

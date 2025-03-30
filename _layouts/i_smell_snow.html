@@ -13,7 +13,9 @@
 <body class="Site {{ page.layout }}-page"> <!-- Keeps the footer down! -->
     <header class="header">
         <div class="header-container">
-            <div class="blog-title">Gilmore Girls Blog</div>
+            <div class="blog-title">
+                <a href="/index" class="site-title-link">Gilmore Girls Blog</a>
+            </div>
             <nav class="navbar">
                 <ul class="nav-links">
                     <li><a href="/about" {% if page.title == "About" %}class="active-page"{% endif %}>About</a></li>
