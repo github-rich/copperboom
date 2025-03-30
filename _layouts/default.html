@@ -16,8 +16,8 @@
             </div>
             <nav class="navbar">
                 <ul class="nav-links">
-                    <li><a href="/index/" {% if page.title == "Posts" or page.layout == "post" %}class="active-page"{% endif %}>Posts</a></li>
-                    <li><a href="/about/" {% if page.title == "About" %}class="active-page"{% endif %}>About</a></li>
+                    <li><a href="/index" {% if page.title == "Posts" or page.layout == "post" %}class="active-page"{% endif %}>Posts</a></li>
+                    <li><a href="/about" {% if page.title == "About" %}class="active-page"{% endif %}>About</a></li>
                     <li><a href="{{ site.url }}/feed.xml" class="rss-link">
                         <img src="/assets/icons/rss-icon2s.png" alt="RSS Feed">
                       </a></li>

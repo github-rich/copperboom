@@ -115,23 +115,3 @@ img {
   margin: 0 auto; /* Centre images */
 }
 
-/* Style for the pin icon */
-.card-figure {
-  position: relative; /* Ensure the pin icon is positioned relative to the image */
-}
-
-.pin-icon {
-  position: absolute;
-  top: 10px; /* Adjust the position as needed */
-  right: 10px; /* Adjust the position as needed */
-  width: 60px; /* Double the size (previously 30px) */
-  height: 60px; /* Double the size (previously 30px) */
-  z-index: 10; /* Ensure the pin icon appears above the image */
-}
-
-.pin-icon img {
-  width: 100%; /* Ensure the image scales properly */
-  height: auto;
-  border: none; /* Override the border from the global img rule */
-  border-radius: 0; /* Remove any rounding applied by the global img rule */
-}
