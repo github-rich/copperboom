@@ -31,25 +31,21 @@ header {
     justify-content: flex-end;
   }
   
-  .navbar .nav-links li {
+  .nav-links li {
     margin: 0 1rem;
   }
   
-  .navbar .nav-links a {
+  .nav-links a {
     color: #5A7FA2;
     text-decoration: none;
     font-weight: normal;
   }
   
-  .navbar .nav-links a.active-page {
-    font-weight: bold;
-  }
-
   .nav-links a.active-page {
     font-weight: bold;
   }
 
-  .navbar .nav-links a:hover {
+  .nav-links a:hover {
     color: white;
     text-decoration: none;
   }
@@ -66,21 +62,16 @@ header {
       flex-direction: column;
       align-items: flex-start;
     }
-
-    .blog-title {
-      color: white;
-    }
   
     .navbar {
       text-align: left; /* Align the navbar links to the left */
-      margin-right: 0; /* Remove the right margin */
-      margin-top: 0.5rem; /* Add some spacing above the navbar */
+      margin: 0.5rem 0 0;
       width: 100%; /* Ensure the navbar spans the full width */
     }
   
     .nav-links {
       justify-content: flex-start;
-      gap: 1rem; /* Add spacing between links */
+      gap: 1rem;       
       padding-left: 1.2rem;
     }
   
