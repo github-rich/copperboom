@@ -127,7 +127,7 @@
 }
 
 /* Style for the pin icon */
-.pin-icon {
+.card-figure .pin-icon {
   position: absolute;
   top: 5%; /* Adjust the position as needed */
   right: 5%; /* Adjust the position as needed */
@@ -136,7 +136,7 @@
   z-index: 10; /* Ensure the pin icon appears above the image */
 }
 
-.pin-icon img {
+.card-figure .pin-icon img {
   width: 100%; /* Ensure the pin icon scales properly */
   height: auto;
 }
@@ -182,7 +182,6 @@
     border: 1px solid #ddd;
     border-radius: 6px;
     overflow: hidden; /* Ensure content doesn't overflow */
-
   }
 
   .flexbox-title {
