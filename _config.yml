@@ -9,15 +9,6 @@ url: "https://www.gilmoregirlsblog.com" # the base hostname & protocol for your 
 
 # Build settings
 theme: null
-plugins:
-  - jekyll-feed
-
-feed:
-  path: feed.xml # The URL path for the feed (default is feed.xml)
-  limit: 10      # Limit the number of posts in the feed
-  excerpt_only: true
-  icon: /assets/images/maple_coffee.png
-  logo: /assets/images/maple_coffee.png
 
 markdown: kramdown
 
