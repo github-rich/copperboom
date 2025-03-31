@@ -19,7 +19,6 @@ sitemap: false
         <description>{{ post.subtitle | xml_escape }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <enclosure url="{{ site.url }}{{ post.image }}" length="0" type="image/jpeg" />
-        <name>{{ site.name }}</name>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
         {% for cat in post.categories %}

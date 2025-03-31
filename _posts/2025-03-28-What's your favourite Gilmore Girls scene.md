@@ -3,7 +3,7 @@ layout: post
 title:  "What's your favourite Gilmore Girls scene?"
 subtitle: "... or how I spent the last ten minutes chuckling to myself."
 originally-posted: 2012-12-10
-image: /assets/images/s02e05 lake.png
+image: /assets/images/s02e05_lake.png
 image-alt-text: "Luke and Jess striding just before one takes a dive"
 categories: archive editorial hypothetical
 ---

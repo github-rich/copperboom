@@ -3,7 +3,7 @@ layout: post
 title:  "The Great Loves of Gilmore Girls : Lorelai and... snow"
 subtitle: "Remember this?  Lorelai can’t sleep."
 originally-posted: 2012-12-18
-image: /assets/images/gg-s01e08 snow1.PNG
+image: /assets/images/gg-s01e08_snow1.PNG
 image-alt-text: "Lorelai smitten with snow"
 categories: archive editorial
 ---
@@ -30,7 +30,7 @@ I love snow too and it’s been snowing here.  It’s magical and Christmassy an
 
 Of course every relationship has its difficulties.  Later on - in season 5 - words are exchanged in anger when the weather causes cancellations at the inn and blocking in her Jeep.  It's a one-sided conversation:
 
-![Lorelai rages at the weather](</assets/images/gg-s05e11 snow2.PNG>)
+![Lorelai rages at the weather](</assets/images/gg-s05e11_snow2.PNG>)
 
 > __Lorelai__  Me and snow, we are through. It was years of bliss y'know, we had good stuff and good times. I could show you pictures of snow angels I've made but I am done! Done!!
 > __Luke__  Well, let it down easy OK?
