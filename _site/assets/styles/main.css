@@ -19,10 +19,6 @@ a:active { color: hotpink; text-decoration: none; font-weight: bold; }
 
 .Site { display: flex; flex-direction: column; min-height: 100vh; }
 
-.site-title-link { text-decoration: none; /* Remove underline */ color: white; }
-
-.site-title-link:hover, .site-title-link:active, .site-title-link:visited { text-decoration: none; /* Ensure no underline on hover, active, or visited states */ color: white; /* Keep the same color */ }
-
 .site-container { /* for sticky footer */ display: flex; flex-direction: column; min-height: 100vh; /* Full viewport height */ /* can also use for limiting width of entire site */ }
 
 .site-content { max-width: 1200px; /* Limit the width of the main content */ margin: 0 auto; /* Center the content horizontally */ flex: 1; /* Allow it to grow and fill available space */ padding: 1em; /* Add padding for spacing inside the content area */ }

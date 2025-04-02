@@ -49,18 +49,6 @@ font-weight: bold;
     min-height: 100vh;
 }
 
-.site-title-link {
-  text-decoration: none; /* Remove underline */
-  color: white; 
- }
-
-.site-title-link:hover,
-.site-title-link:active,
-.site-title-link:visited {
-  text-decoration: none; /* Ensure no underline on hover, active, or visited states */
-  color: white; /* Keep the same color */
-}
-
 .site-container {
   /* for sticky footer */
   display: flex;
