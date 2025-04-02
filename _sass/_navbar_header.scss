@@ -11,6 +11,18 @@ header {
   padding: 1rem 0;
 }
 
+.header-container .site-title-link {
+  color: white !important; /* Force white color */
+  text-decoration: none;
+}
+
+.header-container .site-title-link:hover,
+.header-container .site-title-link:active,
+.header-container .site-title-link:visited {
+  text-decoration: none; /* Ensure no underline on hover, active, or visited states */
+  color: white; /* Keep the same color */
+}
+
 .blog-title {
   font-size: clamp(1.5rem, 5vw, 3rem);
   text-align: center;

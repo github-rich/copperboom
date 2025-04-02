@@ -53,6 +53,6 @@ include: [_pages]
 
 sass:
   sass_dir: _sass
-  style: compressed
+# commenting out compressed for debugging  style: compressed
 
 permalink: pretty

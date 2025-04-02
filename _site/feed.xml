@@ -3,10 +3,10 @@
   <channel>
     <title>Gilmore Girls Blog</title>
     <description>Let&apos;s talk Gilmore Girls.  Whether you&apos;ve just discovered the show or you&apos;re on  your bazillionth re-watch, we understand.  You NEED to talk about it.  With a village  who understands.  We&apos;ve got you.  Welcome to Gilmore Girls Blog.   </description>
-    <link>https://www.gilmoregirlsblog.com/</link>
-    <atom:link href="https://www.gilmoregirlsblog.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 31 Mar 2025 21:16:27 +0100</pubDate>
-    <lastBuildDate>Mon, 31 Mar 2025 21:16:27 +0100</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 02 Apr 2025 11:39:20 +0100</pubDate>
+    <lastBuildDate>Wed, 02 Apr 2025 11:39:20 +0100</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
      
@@ -14,9 +14,9 @@
         <title>What&apos;s your favourite Gilmore Girls scene?</title>
         <description>... or how I spent the last ten minutes chuckling to myself.</description>
         <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
-        <enclosure url="https://www.gilmoregirlsblog.com/assets/images/s02e05_lake.png" length="0" type="image/jpeg" />
-        <link>https://www.gilmoregirlsblog.com/2025/03/28/What's-your-favourite-Gilmore-Girls-scene/</link>
-        <guid isPermaLink="true">https://www.gilmoregirlsblog.com/2025/03/28/What's-your-favourite-Gilmore-Girls-scene/</guid>
+        <enclosure url="http://localhost:4000/assets/images/s02e05_lake.png" length="0" type="image/jpeg" />
+        <link>http://localhost:4000/2025/03/28/What's-your-favourite-Gilmore-Girls-scene/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/03/28/What's-your-favourite-Gilmore-Girls-scene/</guid>
         
         <category>archive</category>
         
@@ -32,9 +32,9 @@
         <title>The Great Loves of Gilmore Girls : Lorelai and... snow</title>
         <description>Remember this?  Lorelai can’t sleep.</description>
         <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
-        <enclosure url="https://www.gilmoregirlsblog.com/assets/images/gg-s01e08_snow1.PNG" length="0" type="image/jpeg" />
-        <link>https://www.gilmoregirlsblog.com/2025/03/28/The-Great-Loves-of-Gilmore-Girls-Lorelai-and-snow/</link>
-        <guid isPermaLink="true">https://www.gilmoregirlsblog.com/2025/03/28/The-Great-Loves-of-Gilmore-Girls-Lorelai-and-snow/</guid>
+        <enclosure url="http://localhost:4000/assets/images/gg-s01e08_snow1.PNG" length="0" type="image/jpeg" />
+        <link>http://localhost:4000/2025/03/28/The-Great-Loves-of-Gilmore-Girls-Lorelai-and-snow/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/03/28/The-Great-Loves-of-Gilmore-Girls-Lorelai-and-snow/</guid>
         
         <category>archive</category>
         
@@ -48,9 +48,9 @@
         <title>Oh there you are, finally.</title>
         <description>I&apos;d been wondering what happened to you.</description>
         <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-        <enclosure url="https://www.gilmoregirlsblog.com/assets/images/maple_coffee.png" length="0" type="image/jpeg" />
-        <link>https://www.gilmoregirlsblog.com/2025/03/23/its-been-a-while/</link>
-        <guid isPermaLink="true">https://www.gilmoregirlsblog.com/2025/03/23/its-been-a-while/</guid>
+        <enclosure url="http://localhost:4000/assets/images/maple_coffee.png" length="0" type="image/jpeg" />
+        <link>http://localhost:4000/2025/03/23/its-been-a-while/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/03/23/its-been-a-while/</guid>
         
         <category>fresh</category>
         
@@ -64,9 +64,9 @@
         <title>Would Rory Gilmore have a Kindle?</title>
         <description>My Kindle makes me feel like Rory Gilmore.</description>
         <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-        <enclosure url="https://www.gilmoregirlsblog.com/assets/images/gg-busbook.png" length="0" type="image/jpeg" />
-        <link>https://www.gilmoregirlsblog.com/2025/03/23/Would-Rory-Gilmore-have-a-Kindle/</link>
-        <guid isPermaLink="true">https://www.gilmoregirlsblog.com/2025/03/23/Would-Rory-Gilmore-have-a-Kindle/</guid>
+        <enclosure url="http://localhost:4000/assets/images/gg-busbook.png" length="0" type="image/jpeg" />
+        <link>http://localhost:4000/2025/03/23/Would-Rory-Gilmore-have-a-Kindle/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/03/23/Would-Rory-Gilmore-have-a-Kindle/</guid>
         
         <category>archive</category>
         
