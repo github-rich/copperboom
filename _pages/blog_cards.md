@@ -37,7 +37,7 @@ permalink: /index
 
   <!-- Second row with three cards -->
   <div class="card-row">
-    {% for post in site.posts limit:5 %}
+    {% for post in site.posts limit:4 %}
       {% assign is_latest_post = false %}
       {% assign is_fresh_post = false %}
 
@@ -62,15 +62,17 @@ permalink: /index
     {% endfor %}
   </div>
 
-  <!-- Two width-spanning flexboxes -->
-  {% for post in site.posts offset:5 limit:5 %}
-  <a href="{{ post.url }}" class="flexbox-card">
-    <div class="flexbox-figure">
-      <img src="{{ post.image }}" alt="{{ post.image-alt-text }}">
-    </div>
-    <div class="flexbox-body">
-      <h2 class="flexbox-title">{{ post.title }}</h2>
-    </div>
-  </a>
+<!-- Ongoing width-spanning flexboxes -->
+  {% for post in site.posts offset:4 limit:5 %}
+    {% if fresh_post and post.url != fresh_post.url %}
+      <a href="{{ post.url }}" class="flexbox-card">
+        <div class="flexbox-figure">
+          <img src="{{ post.image }}" alt="{{ post.image-alt-text }}">
+        </div>
+        <div class="flexbox-body">
+          <h2 class="flexbox-title">{{ post.title }}</h2>
+        </div>
+      </a>
+    {% endif %}
   {% endfor %}
 </div>

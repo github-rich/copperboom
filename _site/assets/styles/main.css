@@ -33,6 +33,10 @@ a:active { color: hotpink; text-decoration: none; font-weight: bold; }
 
 img { max-width: 100%; /* Ensures the image never exceeds the width of its container */ height: auto; /* Maintains the aspect ratio */ display: block; /* Removes inline spacing below the image */ border: 1px solid #ddd; border-radius: 8px; margin: 0 auto; /* Centre images */ }
 
+ul { margin: 1em 0; /* Add vertical spacing around the list */ padding-left: 1.5em; /* Add some padding for indentation */ line-height: 1.5; /* Improve readability of list items */ }
+
+li { margin: 1em 0; /* Add vertical spacing between list items */ line-height: 1.5; /* Ensure consistent line height for list items */ }
+
 blockquote { background: #9BC0E3; border-left: 10px solid #5A7FA2; font-style: normal; font-weight: 400; margin: 1.5em 3em; padding: 0.5em 10px; border-radius: 3px; /* The quotes property is not necessary unless you are using ::before and ::after pseudo-elements to add quotation marks */ quotes: "“" "”" "‘" "’"; text-align: center; /* Center-justify the text */ }
 
 blockquote p { display: inline; /* This makes paragraphs inside blockquotes display as inline elements */ text-align: center; /* Center-align paragraphs */ }
