@@ -27,13 +27,11 @@ layout: default
             First published {{ page.originally-posted | date: "%-d %b %Y" }} | Reposted {{ page.date | date: "%-d %b %Y" }}
         </div>
         {% endunless %}
-        <ul class="post-categories">
-        Filed under: 
+        <div class="post-footer-categories">Filed under: 
         {% for category in page.categories %}
-        <class="post-category">
             {{ category }}
             {% unless forloop.last %} | {% endunless %}
         {% endfor %}
-        </ul>
+        </class>
     </footer>
 </article>
