@@ -35,21 +35,22 @@ permalink: /index
     {% endif %}
   </div>
 
-  <!-- Second row with three cards -->
-  <div class="card-row">
-    {% for post in site.posts limit:4 %}
-      {% assign is_latest_post = false %}
-      {% assign is_fresh_post = false %}
+<!-- Second row with three cards -->
+<div class="card-row">
+  {% assign count = 0 %}
+  {% for post in site.posts %}
+    {% assign is_latest_post = false %}
+    {% assign is_fresh_post = false %}
 
-      {% if post.url == latest_post.url %}
-        {% assign is_latest_post = true %}
-      {% endif %}
+    {% if post.url == latest_post.url %}
+      {% assign is_latest_post = true %}
+    {% endif %}
 
-      {% if fresh_post and post.url == fresh_post.url %}
-        {% assign is_fresh_post = true %}
-      {% endif %}
+    {% if fresh_post and post.url == fresh_post.url %}
+      {% assign is_fresh_post = true %}
+    {% endif %}
 
-      {% if is_latest_post == false and is_fresh_post == false %}
+    {% if is_latest_post == false and is_fresh_post == false %}
       <a href="{{ post.url }}" class="card">
         <div class="card-figure">
           <img src="{{ post.image }}" alt="{{ post.image-alt-text }}">
@@ -58,12 +59,17 @@ permalink: /index
           <h2 class="card-title">{{ post.title }}</h2>
         </div>
       </a>
-      {% endif %}
-    {% endfor %}
-  </div>
+      {% assign count = count | plus: 1 %}
+    {% endif %}
+
+    {% if count == 3 %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+</div>
 
 <!-- Ongoing width-spanning flexboxes -->
-  {% for post in site.posts offset:4 limit:5 %}
+  {% for post in site.posts offset:5 limit:10 %}
     {% if fresh_post and post.url != fresh_post.url %}
       <a href="{{ post.url }}" class="flexbox-card">
         <div class="flexbox-figure">
