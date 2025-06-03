@@ -3,7 +3,7 @@ layout: post
 title:  "First Trailer for Alexis Bledel's New Show"
 subtitle: "Us and Them"
 originally-posted: 2013-05-14
-image: /assets/images/image151.jpg
+image: /assets/images/image151-short.jpg
 image-alt-text: "Alexis Bledel promo pic for Us and Them"
 categories: archive
 ---

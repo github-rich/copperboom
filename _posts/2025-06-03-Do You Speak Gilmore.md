@@ -3,8 +3,8 @@ layout: post
 title:  "Do You Speak Gilmore?"
 subtitle: "The words putting into sentence doing."
 originally-posted: 2013-05-29
-image: /assets/images/gg-busbook.png
-image-alt-text: "Rory loading up her school bag as Lorelai looks on concerned"
+image: /assets/images/image246.jpg
+image-alt-text: "Lorelai and Rory 'cooking' in Logan's kitchen"
 categories: archive
 ---
 I was thinking there should be __a secret Gilmore Girls handshake__ or something.  Something Gilmore Geeks could share in public like a knowing wink to signal kindred spirits.  Then it hit me.  The answer was so obvious, __I was already doing it – and maybe you are too__.
