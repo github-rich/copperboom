@@ -3,8 +3,8 @@ layout: post
 title:  "Dear Diary, It's Been Two Months"
 subtitle: "Where does the time go?"
 originally-posted: 2025-05-03
-image: /assets/images/spring-coffee.png
-image-alt-text: "A prompt-driven cup of coffee surrounded by cherry blossoms"
+image: /assets/images/maple_coffee.png
+image-alt-text: "A mug of dark coffee ensconced by autumnal maple leaves"
 categories: fresh
 ---
 Oh, hi again.  Question for you:  **What makes anyone do anything?**  
