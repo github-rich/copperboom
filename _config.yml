@@ -41,6 +41,7 @@ defaults:
       is_post: true
       layout: post
       permalink: /:year/:month/:day/:title/
+      comments: true
   -
     scope:
       type: pages
