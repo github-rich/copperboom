@@ -19,4 +19,6 @@ There weren't many Gilmore Girls fan sites and we attracted a community that pat
 
 Heartbreakingly, I don't have the original comments or community.  Just the posts I wrote and a few more that were never published.  The plan is just to keep them in this little corner of the internet for safe keeping.  To keep the pilot light on.  
 
-It's likely I'll add a fresh thought from time to time.  And hopefully figure out how to safely add comments.  In the meantime, [drop me a mail](mailto:rich@gilmoregirlsblog.com) if you have any thoughts.
+It's likely I'll add a fresh thought from time to time.  
+
+You'll need to create a github account to leave a comment.  If need any help with that, please [drop me a mail](mailto:rich@gilmoregirlsblog.com).
