@@ -3,20 +3,34 @@
   <channel>
     <title>Gilmore Girls Blog</title>
     <description>Let&apos;s talk Gilmore Girls.  Whether you&apos;ve just discovered the show or you&apos;re on  your bazillionth re-watch, we understand.  You NEED to talk about it.  With a village  who understands.  We&apos;ve got you.  Welcome to Gilmore Girls Blog.   </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 Jun 2025 14:07:02 +0100</pubDate>
-    <lastBuildDate>Sat, 07 Jun 2025 14:07:02 +0100</lastBuildDate>
+    <link>https://www.gilmoregirlsblog.com/</link>
+    <atom:link href="https://www.gilmoregirlsblog.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 08 Jun 2025 14:30:41 +0100</pubDate>
+    <lastBuildDate>Sun, 08 Jun 2025 14:30:41 +0100</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+     
+      <item>
+        <title>For Better or Worse: The Gilmore Girls Weddings</title>
+        <description>Zero Drama Events</description>
+        <pubDate>Sun, 08 Jun 2025 00:00:00 +0100</pubDate>
+        <enclosure url="https://www.gilmoregirlsblog.com/assets/images/image60-bright.jpg" length="0" type="image/jpeg" />
+        <link>https://www.gilmoregirlsblog.com/2025/06/08/For-Better-or-Worse/</link>
+        <guid isPermaLink="true">https://www.gilmoregirlsblog.com/2025/06/08/For-Better-or-Worse/</guid>
+        
+        <category>archive</category>
+        
+      </item>
+      
     
      
       <item>
         <title>Do You Speak Gilmore?</title>
         <description>The words putting into sentence doing.</description>
         <pubDate>Tue, 03 Jun 2025 00:00:00 +0100</pubDate>
-        <enclosure url="http://localhost:4000/assets/images/image246.jpg" length="0" type="image/jpeg" />
-        <link>http://localhost:4000/2025/06/03/Do-You-Speak-Gilmore/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/06/03/Do-You-Speak-Gilmore/</guid>
+        <enclosure url="https://www.gilmoregirlsblog.com/assets/images/image246.jpg" length="0" type="image/jpeg" />
+        <link>https://www.gilmoregirlsblog.com/2025/06/03/Do-You-Speak-Gilmore/</link>
+        <guid isPermaLink="true">https://www.gilmoregirlsblog.com/2025/06/03/Do-You-Speak-Gilmore/</guid>
         
         <category>archive</category>
         
@@ -28,9 +42,9 @@
         <title>The Great Loves of Gilmore Girls: Coffee</title>
         <description>&apos;Coffeecoffeecoffee&apos;</description>
         <pubDate>Sun, 01 Jun 2025 00:00:00 +0100</pubDate>
-        <enclosure url="http://localhost:4000/assets/images/image43.jpg" length="0" type="image/jpeg" />
-        <link>http://localhost:4000/2025/06/01/The-Great-Loves-Coffee/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/06/01/The-Great-Loves-Coffee/</guid>
+        <enclosure url="https://www.gilmoregirlsblog.com/assets/images/image43.jpg" length="0" type="image/jpeg" />
+        <link>https://www.gilmoregirlsblog.com/2025/06/01/The-Great-Loves-Coffee/</link>
+        <guid isPermaLink="true">https://www.gilmoregirlsblog.com/2025/06/01/The-Great-Loves-Coffee/</guid>
         
         <category>archive</category>
         
@@ -44,9 +58,9 @@
         <title>First Trailer for Alexis Bledel&apos;s New Show</title>
         <description>Us and Them</description>
         <pubDate>Sun, 01 Jun 2025 00:00:00 +0100</pubDate>
-        <enclosure url="http://localhost:4000/assets/images/image151-short.jpg" length="0" type="image/jpeg" />
-        <link>http://localhost:4000/2025/06/01/First-Trailer-for-Us-and-Them/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/06/01/First-Trailer-for-Us-and-Them/</guid>
+        <enclosure url="https://www.gilmoregirlsblog.com/assets/images/image151-short.jpg" length="0" type="image/jpeg" />
+        <link>https://www.gilmoregirlsblog.com/2025/06/01/First-Trailer-for-Us-and-Them/</link>
+        <guid isPermaLink="true">https://www.gilmoregirlsblog.com/2025/06/01/First-Trailer-for-Us-and-Them/</guid>
         
         <category>archive</category>
         
@@ -58,9 +72,9 @@
         <title>Gilmore Girls in the Movies</title>
         <description>It&apos;s! You know it&apos;s... them! From Gilmore Girls!</description>
         <pubDate>Mon, 05 May 2025 00:00:00 +0100</pubDate>
-        <enclosure url="http://localhost:4000/assets/images/image292.jpg" length="0" type="image/jpeg" />
-        <link>http://localhost:4000/2025/05/05/Gilmore-Girls-in-the-Movies/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/05/05/Gilmore-Girls-in-the-Movies/</guid>
+        <enclosure url="https://www.gilmoregirlsblog.com/assets/images/image292.jpg" length="0" type="image/jpeg" />
+        <link>https://www.gilmoregirlsblog.com/2025/05/05/Gilmore-Girls-in-the-Movies/</link>
+        <guid isPermaLink="true">https://www.gilmoregirlsblog.com/2025/05/05/Gilmore-Girls-in-the-Movies/</guid>
         
         <category>archive</category>
         
@@ -72,9 +86,9 @@
         <title>Keiko Agena scores a guest spot on Twisted</title>
         <description>So what would Lane Kim would be doing now?</description>
         <pubDate>Sat, 03 May 2025 00:00:00 +0100</pubDate>
-        <enclosure url="http://localhost:4000/assets/images/image161.jpg" length="0" type="image/jpeg" />
-        <link>http://localhost:4000/2025/05/03/Lane-Kim-on-Twisted/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/05/03/Lane-Kim-on-Twisted/</guid>
+        <enclosure url="https://www.gilmoregirlsblog.com/assets/images/image161.jpg" length="0" type="image/jpeg" />
+        <link>https://www.gilmoregirlsblog.com/2025/05/03/Lane-Kim-on-Twisted/</link>
+        <guid isPermaLink="true">https://www.gilmoregirlsblog.com/2025/05/03/Lane-Kim-on-Twisted/</guid>
         
         <category>archive</category>
         
@@ -88,9 +102,9 @@
         <title>Dear Diary, It&apos;s Been Two Months</title>
         <description>Where does the time go?</description>
         <pubDate>Sat, 03 May 2025 00:00:00 +0100</pubDate>
-        <enclosure url="http://localhost:4000/assets/images/maple_coffee.png" length="0" type="image/jpeg" />
-        <link>http://localhost:4000/2025/05/03/Dear-Diary,-It's-Been-Two-Months/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/05/03/Dear-Diary,-It's-Been-Two-Months/</guid>
+        <enclosure url="https://www.gilmoregirlsblog.com/assets/images/maple_coffee.png" length="0" type="image/jpeg" />
+        <link>https://www.gilmoregirlsblog.com/2025/05/03/Dear-Diary,-It's-Been-Two-Months/</link>
+        <guid isPermaLink="true">https://www.gilmoregirlsblog.com/2025/05/03/Dear-Diary,-It's-Been-Two-Months/</guid>
         
         <category>fresh</category>
         
@@ -102,9 +116,9 @@
         <title>A Gilmore Girls&apos; Guide to Dating: Part Two</title>
         <description>What Makes a Great First Date?</description>
         <pubDate>Tue, 22 Apr 2025 00:00:00 +0100</pubDate>
-        <enclosure url="http://localhost:4000/assets/images/s01e08 kismet.jpg" length="0" type="image/jpeg" />
-        <link>http://localhost:4000/2025/04/22/Guide-to-Dating-Part-Two/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/04/22/Guide-to-Dating-Part-Two/</guid>
+        <enclosure url="https://www.gilmoregirlsblog.com/assets/images/s01e08 kismet.jpg" length="0" type="image/jpeg" />
+        <link>https://www.gilmoregirlsblog.com/2025/04/22/Guide-to-Dating-Part-Two/</link>
+        <guid isPermaLink="true">https://www.gilmoregirlsblog.com/2025/04/22/Guide-to-Dating-Part-Two/</guid>
         
         <category>archive</category>
         
@@ -118,9 +132,9 @@
         <title>What’s worth watching? (besides Gilmore Girls re-runs)</title>
         <description>Was there ever anything like Gilmore Girls?</description>
         <pubDate>Wed, 16 Apr 2025 00:00:00 +0100</pubDate>
-        <enclosure url="http://localhost:4000/assets/images/s05e03 mrs landingham.jpg" length="0" type="image/jpeg" />
-        <link>http://localhost:4000/2025/04/16/Whats-worth-watching/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/04/16/Whats-worth-watching/</guid>
+        <enclosure url="https://www.gilmoregirlsblog.com/assets/images/s05e03 mrs landingham.jpg" length="0" type="image/jpeg" />
+        <link>https://www.gilmoregirlsblog.com/2025/04/16/Whats-worth-watching/</link>
+        <guid isPermaLink="true">https://www.gilmoregirlsblog.com/2025/04/16/Whats-worth-watching/</guid>
         
         <category>archive</category>
         
@@ -134,23 +148,9 @@
         <title>Alexis Bledel joins Friends and Family</title>
         <description>Rory Gilmore goes into therapy</description>
         <pubDate>Sat, 12 Apr 2025 00:00:00 +0100</pubDate>
-        <enclosure url="http://localhost:4000/assets/images/so6e11-shrink.jpg" length="0" type="image/jpeg" />
-        <link>http://localhost:4000/2025/04/12/Alexis-Bledel-joins-Friends-and-Family-Rory-Gilmore-goes-into-therapy/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/04/12/Alexis-Bledel-joins-Friends-and-Family-Rory-Gilmore-goes-into-therapy/</guid>
-        
-        <category>archive</category>
-        
-      </item>
-      
-    
-     
-      <item>
-        <title>“Bunheads” 1.01 ‘Pilot’ – Full Recap inc. spoilers</title>
-        <description>Airdate: June 11, 2012</description>
-        <pubDate>Fri, 11 Apr 2025 00:00:00 +0100</pubDate>
-        <enclosure url="http://localhost:4000/assets/images/127616_1002r_ful_595.jpg" length="0" type="image/jpeg" />
-        <link>http://localhost:4000/2025/04/11/Bunheads-1.01-Recap/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/04/11/Bunheads-1.01-Recap/</guid>
+        <enclosure url="https://www.gilmoregirlsblog.com/assets/images/so6e11-shrink.jpg" length="0" type="image/jpeg" />
+        <link>https://www.gilmoregirlsblog.com/2025/04/12/Alexis-Bledel-joins-Friends-and-Family-Rory-Gilmore-goes-into-therapy/</link>
+        <guid isPermaLink="true">https://www.gilmoregirlsblog.com/2025/04/12/Alexis-Bledel-joins-Friends-and-Family-Rory-Gilmore-goes-into-therapy/</guid>
         
         <category>archive</category>
         
