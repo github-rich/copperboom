@@ -6,8 +6,14 @@ permalink: /index
 <div class="cards-container">
   <!-- First row with two cards -->
   <div class="card-row">
-    <!-- Left card: The most recent post -->
-    {% assign latest_post = site.posts | first %}
+    <!-- Left card: The most recent non-"fresh" post -->
+    {% assign latest_post = nil %}
+    {% for post in site.posts %}
+      {% unless post.categories contains "fresh" %}
+        {% assign latest_post = post %}
+        {% break %}
+      {% endunless %}
+    {% endfor %}
     <a href="{{ latest_post.url }}" class="card">
       <div class="card-figure">
         <img src="{{ latest_post.image }}" alt="{{ latest_post.image-alt-text }}">
@@ -16,7 +22,6 @@ permalink: /index
         <h2 class="card-title">{{ latest_post.title }}</h2>
       </div>
     </a>
-
     <!-- Right card: The most recent "fresh" category post -->
     {% assign fresh_post = site.posts | where: "categories", "fresh" | first %}
     {% if fresh_post %}
@@ -82,3 +87,9 @@ permalink: /index
     {% endif %}
   {% endfor %}
 </div>
+
+<p>
+  <div class="center-text">
+    <a href="/page_two">Older Posts >></a>
+  </div>
+</p>
