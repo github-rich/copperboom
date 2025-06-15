@@ -3,8 +3,8 @@ layout: post
 title:  "Oh there you are, finally."
 subtitle: "I'd been wondering what happened to you."
 originally-posted: 2025-03-23
-image: /assets/images/maple_coffee.png
-image-alt-text: "A mug of dark coffee ensconced by autumnal maple leaves"
+image: /assets/images/coffee1.jpg
+image-alt-text: "An overhead picture of a cup of dark coffee on a sawn off stump"
 categories: fresh editorial
 ---
 Right now I'm at the end of season three.  My sweet spot.  Jess is visiting his dad in Santa Monica.  Lorelai's reading Rory's yearbook and discovered that Rory is valedictorian but didn't tell her.  She's so proud you can see her eyes start to prickle but she doesn't make a scene because Rory's so busy revising and doesn't have time.  I on the other hand, am a heaving, blubbering mess. 

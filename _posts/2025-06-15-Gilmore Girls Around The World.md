@@ -5,7 +5,7 @@ subtitle: "The plural of cul-de-sac is...?"
 originally-posted: 2013-09-24
 image: /assets/images/image193.jpg
 image-alt-text: "Rory in ostensibly Italy but more likely the WB lot with an Italian flag stuck on it"
-categories: archive hypothetical
+categories: archive 
 ---
 Have you ever watched Gilmore Girls in anything other than English?  Or do you use Gilmore Girls to improve your English?
 
