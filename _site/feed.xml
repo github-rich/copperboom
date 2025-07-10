@@ -5,9 +5,23 @@
     <description>Let&apos;s talk Gilmore Girls.  Whether you&apos;ve just discovered the show or you&apos;re on  your bazillionth re-watch, we understand.  You NEED to talk about it.  With a village  who understands.  We&apos;ve got you.  Welcome to Gilmore Girls Blog.   </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 Jun 2025 14:25:14 +0100</pubDate>
-    <lastBuildDate>Sun, 29 Jun 2025 14:25:14 +0100</lastBuildDate>
+    <pubDate>Thu, 10 Jul 2025 17:05:09 +0100</pubDate>
+    <lastBuildDate>Thu, 10 Jul 2025 17:05:09 +0100</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+     
+      <item>
+        <title>The Return of the Gilmore Boys</title>
+        <description>Jess and Tristan and Dean and Dave and Logan and Brandon Routh</description>
+        <pubDate>Thu, 10 Jul 2025 00:00:00 +0100</pubDate>
+        <enclosure url="http://localhost:4000/assets/images/image40.jpg" length="0" type="image/jpeg" />
+        <link>http://localhost:4000/2025/07/10/The-Return-of-the-Gilmore-Boys/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/07/10/The-Return-of-the-Gilmore-Boys/</guid>
+        
+        <category>archive</category>
+        
+      </item>
+      
     
      
       <item>
@@ -131,20 +145,6 @@
         <enclosure url="http://localhost:4000/assets/images/image151-short.jpg" length="0" type="image/jpeg" />
         <link>http://localhost:4000/2025/06/01/First-Trailer-for-Us-and-Them/</link>
         <guid isPermaLink="true">http://localhost:4000/2025/06/01/First-Trailer-for-Us-and-Them/</guid>
-        
-        <category>archive</category>
-        
-      </item>
-      
-    
-     
-      <item>
-        <title>Gilmore Girls in the Movies</title>
-        <description>It&apos;s! You know it&apos;s... them! From Gilmore Girls!</description>
-        <pubDate>Mon, 05 May 2025 00:00:00 +0100</pubDate>
-        <enclosure url="http://localhost:4000/assets/images/image292.jpg" length="0" type="image/jpeg" />
-        <link>http://localhost:4000/2025/05/05/Gilmore-Girls-in-the-Movies/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/05/05/Gilmore-Girls-in-the-Movies/</guid>
         
         <category>archive</category>
         
