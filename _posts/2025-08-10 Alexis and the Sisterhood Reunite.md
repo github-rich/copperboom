@@ -9,7 +9,7 @@ categories: archive
 ---
 Alexis Bledel (Rory Gilmore), America Ferreira and Blake Lively threw a surprise bachelorette party earlier this week for their fourth Sister of the Traveling Pants, Amber Tamblyn.
 
-As reported by [Wonderwall](http://wonderwall.msn.com/movies/blake-lively-ambushed-sisterhood-co-star-for-bachelorette-party-1778067.story), the aptly-named Lively lured the soon-to-be-wed Tamblyn into a cab, blindfolded her and took her to the airport.
+As reported by [Wonderwall](http://wonderwall.msn.com/movies/blake-lively-ambushed-sisterhood-co-star-for-bachelorette-party-1778067.story), the Lively lived up to her name and lured the soon-to-be-wed Tamblyn into a cab, blindfolded her and whisked her to the airport.
 
 In Tamblyn’s words:
 
