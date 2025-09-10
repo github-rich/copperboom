@@ -5,9 +5,23 @@
     <description>Let&apos;s talk Gilmore Girls.  Whether you&apos;ve just discovered the show or you&apos;re on  your bazillionth re-watch, we understand.  You NEED to talk about it.  With a village  who understands.  We&apos;ve got you.  Welcome to Gilmore Girls Blog.   </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Sep 2025 20:17:22 +0100</pubDate>
-    <lastBuildDate>Tue, 02 Sep 2025 20:17:22 +0100</lastBuildDate>
+    <pubDate>Wed, 10 Sep 2025 20:02:07 +0100</pubDate>
+    <lastBuildDate>Wed, 10 Sep 2025 20:02:07 +0100</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+     
+      <item>
+        <title>Pet Hates (Not Animal Related)</title>
+        <description>Misery loves company?</description>
+        <pubDate>Wed, 10 Sep 2025 00:00:00 +0100</pubDate>
+        <enclosure url="http://localhost:4000/assets/images/image131.jpg" length="0" type="image/jpeg" />
+        <link>http://localhost:4000/2025/09/10/Pet-Hates-Not-Animals/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/09/10/Pet-Hates-Not-Animals/</guid>
+        
+        <category>archive</category>
+        
+      </item>
+      
     
      
       <item>
@@ -129,20 +143,6 @@
         <enclosure url="http://localhost:4000/assets/images/image267.jpg" length="0" type="image/jpeg" />
         <link>http://localhost:4000/2025/06/22/Cracking-Cameos/</link>
         <guid isPermaLink="true">http://localhost:4000/2025/06/22/Cracking-Cameos/</guid>
-        
-        <category>archive</category>
-        
-      </item>
-      
-    
-     
-      <item>
-        <title>Gilmore Girls Around The World</title>
-        <description>The plural of cul-de-sac is...?</description>
-        <pubDate>Sun, 15 Jun 2025 00:00:00 +0100</pubDate>
-        <enclosure url="http://localhost:4000/assets/images/image193.jpg" length="0" type="image/jpeg" />
-        <link>http://localhost:4000/2025/06/15/Gilmore-Girls-Around-The-World/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/06/15/Gilmore-Girls-Around-The-World/</guid>
         
         <category>archive</category>
         
