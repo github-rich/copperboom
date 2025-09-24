@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "title"
-subtitle: "Redeeming Dean Forester"
+title:  "Redeeming Dean Forester"
+subtitle: "I got kissed! And I shoplifted!"
 originally-posted: 2013-11-19
 image: /assets/images/image59.jpg
-image-alt-text: "I got kissed! And I shoplifted!"
+image-alt-text: "Rory and Dean in the car he built for her"
 categories: archive
 ---
 For over a month now, you guys have been pushing Dean off a cliff and while I admit I was the first in line, I’ve been thinking it over and, well... let’s all just take a moment and see if we can’t help breathe some love back into his poor broken carcass.
