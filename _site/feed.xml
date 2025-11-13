@@ -5,9 +5,23 @@
     <description>Let&apos;s talk Gilmore Girls.  Whether you&apos;ve just discovered the show or you&apos;re on  your bazillionth re-watch, we understand.  You NEED to talk about it.  With a village  who understands.  We&apos;ve got you.  Welcome to Gilmore Girls Blog.   </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Nov 2025 21:40:42 +0000</pubDate>
-    <lastBuildDate>Sun, 02 Nov 2025 21:40:42 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Nov 2025 15:31:40 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Nov 2025 15:31:40 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+     
+      <item>
+        <title>Will the Real &apos;Stars Hollow&apos; Please Stand Up?</title>
+        <description>Wheels up in five</description>
+        <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+        <enclosure url="http://localhost:4000/assets/images/image240.jpg" length="0" type="image/jpeg" />
+        <link>http://localhost:4000/2025/11/13/The-Real-Stars-Hollow(s)/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/11/13/The-Real-Stars-Hollow(s)/</guid>
+        
+        <category>archive</category>
+        
+      </item>
+      
     
      
       <item>
@@ -129,20 +143,6 @@
         <enclosure url="http://localhost:4000/assets/images/image274.jpg" length="0" type="image/jpeg" />
         <link>http://localhost:4000/2025/09/02/Pet-Hates-The-Gilmore-Animals/</link>
         <guid isPermaLink="true">http://localhost:4000/2025/09/02/Pet-Hates-The-Gilmore-Animals/</guid>
-        
-        <category>archive</category>
-        
-      </item>
-      
-    
-     
-      <item>
-        <title>Richard and Emily: A Gilmore Girls Prequel</title>
-        <description>Spring 1963, New Haven, Connecticut.</description>
-        <pubDate>Mon, 25 Aug 2025 00:00:00 +0100</pubDate>
-        <enclosure url="http://localhost:4000/assets/images/image106-COLLAGE.jpg" length="0" type="image/jpeg" />
-        <link>http://localhost:4000/2025/08/25/A-Gilmore-Girls-Prequel/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/08/25/A-Gilmore-Girls-Prequel/</guid>
         
         <category>archive</category>
         
