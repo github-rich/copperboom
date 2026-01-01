@@ -5,9 +5,25 @@
     <description>Let&apos;s talk Gilmore Girls.  Whether you&apos;ve just discovered the show or you&apos;re on  your bazillionth re-watch, we understand.  You NEED to talk about it.  With a village  who understands.  We&apos;ve got you.  Welcome to Gilmore Girls Blog.   </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 Dec 2025 14:56:20 +0000</pubDate>
-    <lastBuildDate>Sat, 13 Dec 2025 14:56:20 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Jan 2026 14:02:12 +0000</pubDate>
+    <lastBuildDate>Thu, 01 Jan 2026 14:02:12 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+     
+      <item>
+        <title>Twenty Twenty Six</title>
+        <description>What&apos;s Next?</description>
+        <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+        <enclosure url="http://localhost:4000/assets/images/coffee4.jpg" length="0" type="image/jpeg" />
+        <link>http://localhost:4000/2026/01/01/2026/</link>
+        <guid isPermaLink="true">http://localhost:4000/2026/01/01/2026/</guid>
+        
+        <category>fresh</category>
+        
+        <category>editorial</category>
+        
+      </item>
+      
     
      
       <item>
@@ -129,20 +145,6 @@
         <enclosure url="http://localhost:4000/assets/images/image93.jpg" length="0" type="image/jpeg" />
         <link>http://localhost:4000/2025/09/28/the-last-four-words/</link>
         <guid isPermaLink="true">http://localhost:4000/2025/09/28/the-last-four-words/</guid>
-        
-        <category>archive</category>
-        
-      </item>
-      
-    
-     
-      <item>
-        <title>Zombie Gilmore Girls</title>
-        <description>... because why not?</description>
-        <pubDate>Wed, 24 Sep 2025 00:00:00 +0100</pubDate>
-        <enclosure url="http://localhost:4000/assets/images/image315-2.jpg" length="0" type="image/jpeg" />
-        <link>http://localhost:4000/2025/09/24/Zombie-Gilmore-Girls/</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/09/24/Zombie-Gilmore-Girls/</guid>
         
         <category>archive</category>
         
