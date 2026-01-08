@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Richard Herrmann Passes Away at 71"
+title:  "Edward Herrmann Passes Away at 71"
 subtitle: "Sniff..."
 originally-posted: 2015-01-01
 image: /assets/images/image176.jpg
 image-alt-text: "Ed Herrmann as Richard Gilmore, emotionally stoic"
 categories: archive
 ---
-With profound sadness we report that Edward Herrmann, the actor who so memorably portrayed Richard Gilmore, passed away on the morning of New Year’s Eve 2014 in a hospital in New York, aged 71.
+With profound sadness we report that Edward Herrmann, the actor who so memorably portrayed Richard Gilmore, passed away on the morning of New Year’s Eve 2014 in a hospital in New York.  He was aged 71.
 
 > __Lauren Graham (Lorelai Gilmore)__ My friend Ed Herrmann was the kindest, classiest, most talented man. It was an honor and a joy to know him, a devastating blow to lose him.
 > <span class="episode-ref">@thelaurengraham on Twitter</span>
@@ -34,4 +34,4 @@ His on-screen wife, Kelly Bishop (Emily Gilmore) spoke to TVLine:
  
 ![Richard and Emily framed in the rain, in the season seven finale](</assets/images/image308.jpg>)
 
-Sniff.
+Thank you, Ed.  Rest in peace x
