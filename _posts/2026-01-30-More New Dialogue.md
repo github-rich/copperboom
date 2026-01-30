@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "More NEW Actual Gilmore Girls Dialogue"
-subtitle: "sub-title blurb"
+subtitle: "BTS GG"
 originally-posted: 2014-04-22
 image: /assets/images/image122.jpg
-image-alt-text: "alt-text here please"
+image-alt-text: "A tantalising glimpse of an original GG script"
 categories: archive
 ---
 In the bleak wilderness that is the absence of the Gilmore Girls movie, I’m now sifting through the garbage and finding sustenance in gems like these.
