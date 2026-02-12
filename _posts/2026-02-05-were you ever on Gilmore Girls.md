@@ -11,7 +11,7 @@ categories: archive
 
 **Or were you ever - *I’m holding my breath* - ever on the show?**  What do you remember?  How was the atmosphere?  I imagine it was fairly hectic but professional, having to get through all that dialogue – but I bet the setpieces were fun.
 
-You can comment below and you don’t need to sign up.  You don’t even have to give your real details! Fair warning though: if you’re even vaguely recognizeable, you face a barrage of affection, hugs and quite possibly some virtual petting.  Just witness the response / carnage to [Lauren Graham’s recent online Reddit chat](http://www.reddit.com/r/IAmA/comments/218mah/i_am_lauren_graham_actress_author_ask_me_anything/).
+You can comment below.  You don’t even have to give your real details! Fair warning though: if you’re even vaguely recognizeable, you face a barrage of affection, hugs and quite possibly some virtual petting.  I mean, just witness the response / carnage to [Lauren Graham’s recent online Reddit chat](http://www.reddit.com/r/IAmA/comments/218mah/i_am_lauren_graham_actress_author_ask_me_anything/).
 
 The closest I’ve gotten to Gilmore alumni is tweeting with Lauren Graham’s literary agent... but once upon a time I wandered through Leicester Square on a damp London evening straight into a crowd outside the Empire cinema. Leicester (pronounced ‘Lester’ for anyone State-side) Square is where all the big movie premieres happen in England.  I was just kicking around so thought I’d go stand next to the ribbon to see who might turn up for... what looked like the premiere of *Star Trek: Nemesis*.
 
