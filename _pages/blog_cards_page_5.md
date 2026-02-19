@@ -1,12 +1,12 @@
 ---
 layout: blog_cards
-title: Page Four
-permalink: page_four
+title: Page Five
+permalink: page_five
 ---
 <div class="cards-container">
 
 <!-- Ongoing width-spanning flexboxes -->
-  {% for post in site.posts offset:35 limit:10 %}
+  {% for post in site.posts offset:45 limit:10 %}
       <a href="{{ post.url }}" class="flexbox-card">
         <div class="flexbox-figure">
           <img src="{{ post.image }}" alt="{{ post.image-alt-text }}">
@@ -20,6 +20,6 @@ permalink: page_four
 
 <p>
   <div class="center-text">
-    <a href="/page_three"><< Newer Posts</a>| <a href="/page_five"> Older Posts >></a>
+    <a href="/page_four"><< Newer Posts</a>
   </div>
 </p>
