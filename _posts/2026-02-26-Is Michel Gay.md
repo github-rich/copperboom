@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Is Michel Gay or just French?"
+title:  "Is Michel gay - or just French?"
 subtitle: "... he was always immaculate"
 originally-posted: 2014-17-12
 image: /assets/images/image67.jpg
