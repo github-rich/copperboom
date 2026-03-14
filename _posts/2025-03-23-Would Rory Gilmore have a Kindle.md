@@ -3,7 +3,7 @@ layout: post
 title:  "Would Rory Gilmore have a Kindle?"
 subtitle: "My Kindle makes me feel like Rory Gilmore."
 originally-posted: 2012-11-5
-image: /assets/images/gg-busbook.png
+image: /assets/images/image265.jpg
 image-alt-text: "Rory loading up her school bag as Lorelai looks on concerned"
 categories: archive hypothetical
 ---
