@@ -21,4 +21,4 @@ Heartbreakingly, I don't have the original comments or community.  Just the post
 
 It's likely I'll add a fresh thought from time to time.  
 
-You'll need to create a github account to leave a comment.  If need any help with that, please [drop me a mail](mailto:rich@gilmoregirlsblog.com).
+You'll need to create a github account to leave a comment.  If you need any help with that, please [drop me a mail](mailto:rich@gilmoregirlsblog.com).
