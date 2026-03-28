@@ -18,7 +18,7 @@ Because when you know, you know.
 > __Rory__  *(reading from a label)* Buttercup is a special dog. She’s extremely skittish and tends to react badly towards blonde haired females, brunette males, children of either sex, other animals, red clothing, cabbage or anyone in a uniform.
 > __Lorelai__  *(to Luke)* Hey, we just found the doggy version of you.
 
-- Neither Lane nor Mrs Kim were Korean
+- Neither of the actors playing the Korean characters Lane or her mother Mrs Kim, were Korean
 - Lauren Graham (Lorelai Gilmore, duh) and Keiko Agena (Lane Kim) were both born in Honolulu, Hawaii
 - Keiko Agena was closer to Lauren’s age than Alexis (Rory Gilmore).  Those wonderful Japanese-American genes…
 - Alex Borstein was originally cast to play Sookie but due to Alex’ contractual engagements, was re-cast as Drella (the eternally-miffed harp player) and later on as Miss Celine the Gilmores’ dresser
@@ -26,8 +26,8 @@ Because when you know, you know.
 - The set of Lorelai’s house connected to Sookie’s house via the closet door in the entrance hall
 - The exterior of the Dragonfly Inn was the house from popular 70s show, *The Waltons*
 - Alexis Bledel and Milo Ventimiglia (Jess Mariano) were dating in real life
-- Sean Gunn turned up as both the swan guy and Mick the cable guy before becoming Kirk forever.  Including an alternate universe Kirk as Bash, in Bunheads
-- At the school performance of Fiddler On The Roof, Matthew Perry can be seen hiding behind the curtain after Luke fixes Kirk’s cart
+- Sean Gunn turned up as both the swan guy and Mick the cable guy before becoming Kirk forever.  Including an alternate universe Kirk as Bash, in *Bunheads*
+- At the school performance of *Fiddler On The Roof*, Matthew Perry can be seen hiding behind the curtain after Luke fixes Kirk’s cart
 
 You have homework this week.  __Hunt out some unexpected trivia and post it below.__  
 tv.com has thousands I never knew about.  Or you can totally make it up, just like I totally fabricated every fifth 'fact' above...  Gotcha.
