@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Autumn = Gilmore Season"
+title:  "EDITORIAL: Autumn = Gilmore Season"
 subtitle: "Golden Brown"
 originally-posted: 2025-10-16
 image: /assets/images/drink-3025022_640.jpg

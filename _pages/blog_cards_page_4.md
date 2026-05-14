@@ -20,6 +20,6 @@ permalink: page_four
 
 <p>
   <div class="center-text">
-    <a href="/page_three"><< Newer Posts</a>| <a href="/page_five"> Older Posts >></a>
+    <a href="/page_three"><< Newer Posts </a>| <a href="/page_five"> Older Posts >></a>
   </div>
 </p>

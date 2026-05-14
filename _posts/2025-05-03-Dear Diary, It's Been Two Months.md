@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dear Diary, It's Been Two Months"
+title:  "EDITORIAL: Dear Diary, It's Been Two Months"
 subtitle: "Where does the time go?"
 originally-posted: 2025-05-03
 image: /assets/images/coffee2.jpg

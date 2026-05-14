@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Oh there you are, finally."
+title:  "EDITORIAL: Oh there you are, finally."
 subtitle: "I'd been wondering what happened to you."
 originally-posted: 2025-03-23
 image: /assets/images/coffee1.jpg
