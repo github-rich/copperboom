@@ -15,7 +15,7 @@ The festival runs from June 4 to June 7 and you can currently buy a weekend pass
 What are you waiting for? Click this link and Buy A Badge: http://www.atxfestival.com/ *[Link removed - this is old news! ~Rich2026]*
 
 
-> __Amy Sherman-Palladino__  So after years of peace and quiet these lunatics have chosen to get the chattiest chicks in the world back under one roof? Really? Okay… You asked for it….Gilmore was the highlight of my ridiculous life. I can't wait to sit with these unbelievable broads and relive a time where sleep did not exist where stress and coffee were mama's little helpers and where we all dove into the deep end together to make something weird and very very cool.
+> __Amy Sherman-Palladino__  So after years of peace and quiet these lunatics have chosen to get the chattiest chicks in the world back under one roof? Really? Okay... You asked for it... Gilmore was the highlight of my ridiculous life. I can't wait to sit with these unbelievable broads and relive a time where sleep did not exist where stress and coffee were mama's little helpers and where we all dove into the deep end together to make something weird and very very cool.
 
 I'd bet my back teeth more of the show's alumni will also be in attendance.
 

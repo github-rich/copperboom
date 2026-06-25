@@ -13,7 +13,7 @@ It might not have ended on a total high for everyone's tastes but it wasn't a to
 
 **What if the studio had ended Gilmore Girls after season one?** Shows cut off in their prime after a single series are talked about long after their premature ejection. _Bunheads_, _Firefly_, _Freaks and Geeks_... all great shows that never lived long enough to fail. With only one season, would we still be talking about it?
 
-Then there are the great shows that ended right. Recently, _Breaking Bad_ and _True Detective_ done good. _Dawson's Creek_ had an awful final series but creator Kevin Williamson came back to write the final awesome two-part episode. I think that would have been ideal for Gilmore Girls.
+Then there are the great shows that ended right. Recently, _Breaking Bad_ and _True Detective_ done good. _Dawson's Creek_ had an awful final series but creator Kevin Williamson came back to write the final awesome two-part episode. I think that scenario would have been ideal for Gilmore Girls.
 
 But enough couldawouldashoulda. With time having passed, nobody getting younger and times having changed, perhaps it's better to have the promise that it could have been great, than to actually have an ending and it be both final and... out of time? **But Amy wouldn't do it if it had any chance of being bad... right?**
 
