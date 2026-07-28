@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sunday Afternoon #GilmoreGirls Re-Watch LiveTweet was a Blast! #gnrw"
-subtitle: "sub-title blurb"
+subtitle: "#hashtag"
 originally-posted: 2014-10-12
 image: /assets/images/image130.jpg
 image-alt-text: "The Gilmore brood trails Trix around Lorelai's living room"
