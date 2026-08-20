@@ -2,7 +2,7 @@
 layout: post
 title:  "Lorelai Gilmore and the Mystery of the Contact Lenses"
 subtitle: "who said that"
-originally-posted: 2012-11-05
+originally-posted: 2015-02-03
 image: /assets/images/image300.jpg
 image-alt-text: "Lorelai channels Cujo, with glasses"
 categories: archive
