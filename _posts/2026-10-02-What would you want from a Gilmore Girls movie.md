@@ -25,14 +25,3 @@ Surely we can't break Luke and Lorelai up for the sake of a happy reconciliation
 No ground rules here, no stupid ideas. Just... **what would you want?**  
 
 **What do you _need_?**
-
-
-> __Lorelai__  Quote like this.  
-> <span class="episode-ref">s01e01 Episode Title</span>
-
-More text and [a link to the internet](http://url.com/like_this/).
-
-![Interstitial images alt text](</assets/images/gg-s05e11_snow2.PNG>)
-
-Final questions
-__What might you ask?__
