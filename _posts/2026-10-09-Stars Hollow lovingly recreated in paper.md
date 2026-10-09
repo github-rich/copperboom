@@ -2,7 +2,7 @@
 layout: post
 title:  "Stars Hollow lovingly recreated in paper"
 subtitle: "He got skills... and free time"
-originally-posted: 2012-11-05
+originally-posted: 2013-07-09
 image: /assets/images/image278.jpg
 image-alt-text: "Lorelai's house rendered in paper sculpture"
 categories: archive
