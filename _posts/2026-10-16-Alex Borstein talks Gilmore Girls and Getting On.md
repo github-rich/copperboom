@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Alex Borstein talks Gilmore Girls and Getting On"
-subtitle: "ANOTHER Incomparable, Legendary Gilmore Alumni"
+subtitle: "Insights from behind-the-scenes"
 originally-posted: 2014-01-07
 image: /assets/images/image290.jpg
 image-alt-text: "Alex Borstein giving cheeky nurse in Getting On"
