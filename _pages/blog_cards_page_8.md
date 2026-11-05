@@ -20,6 +20,6 @@ permalink: page_eight
 
 <p>
   <div class="center-text">
-    <a href="/page_seven"><< Newer Posts</a>
+    <a href="/page_seven"><< Newer Posts </a>| <a href="/page_nine"> Older Posts >></a>
   </div>
 </p>
