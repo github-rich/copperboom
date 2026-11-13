@@ -13,7 +13,7 @@ categories: fresh editorial
 
 In the first book, the protagonist - a normal guy called Carl, off-handedly names two unnamed side characters, Rory and Lorelai.  There's no setup, no reason, no explicit reference to Gilmore Girls in the whole of the rest of the book.  **If you didn't know, you wouldn't know.**  I'm assuming you get the reference.
 
-The author does it again in a later book where a character refers to April Nardini being an example of a blatant - albeit failed - attempt to keep a story from becoming stale.  I mean, yeah but harsh.
+The author does it again in a later book where a character refers to April  being an example of a blatant - albeit failed - attempt to keep a story from becoming stale.  I mean... yeah but harsh.
 
 ![April and Luke getting some Daddy-Daughter screentime](/assets/images/dcc-aprilandluke.png)
 
